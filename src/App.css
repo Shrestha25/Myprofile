@@ -1,0 +1,74 @@
+:root {
+  --off-white: #f1e8e8;
+}
+ .App {
+   background-color: rgb(190, 248, 242);
+ }
+.nav {
+  background-color: var(--off-white);
+  position: sticky;
+  top: 0px;
+  width: 100%;
+  height: 80px;
+  z-index: 1000;
+  box-shadow: 0 4px 14px 0 rgba(0, 0, 0, 0.15);
+}
+
+.nav-logo {
+  height: 60px;
+  width: 160px;
+}
+
+.nav-logo:hover {
+  cursor: pointer;
+}
+
+.nav .nav-content {
+  max-width: 900px;
+  padding: 0rem 3rem;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+}
+
+.nav-item {
+  display: inline;
+  font-size: 18px;
+  font-family: cursive;
+  margin-left: 2rem;
+  color: rgb(207, 86, 86);
+}
+
+.nav-item:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.section{
+  border-radius: 20px;
+  background:white;
+}
+.section-dark {
+  border-radius: 20px;
+  background: #333;
+  color: white;
+}
+
+.section-content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.section-content h1 {
+  font-family: sans-serif;
+}
+
+.altbody {
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+}

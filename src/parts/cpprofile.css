@@ -1,0 +1,18 @@
+.cp_pro {
+    font-size: 35px;
+    font-style: italic;
+}
+
+.logo_img{
+    width: 170px;
+    height: 60px;
+}
+
+.cp_pro a {
+    text-decoration: none;
+    color:rgb(118, 118, 248);
+}
+
+.cp_pro a:hover {
+    color:rgb(231, 75, 75);
+}
