@@ -13,6 +13,7 @@ const aboutme = () =>{
             I'm a Competitive Programmer who loves solving problems<br/>
             I am learning frontend development in ReactJs and also have experience of  WAMP Server .<br/><br/>
             Apart from coding, I love to play football and make small memes.<br/>
+            In free time I sketch also<br/>
             </div>
         </div>
         
