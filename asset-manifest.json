@@ -1,9 +1,9 @@
 {
-  "main.css": "/Myprofile/static/css/main.efed5a7d.chunk.css",
-  "main.js": "/Myprofile/static/js/main.1a57ff6d.chunk.js",
-  "main.js.map": "/Myprofile/static/js/main.1a57ff6d.chunk.js.map",
-  "static/js/1.e40f7106.chunk.js": "/Myprofile/static/js/1.e40f7106.chunk.js",
-  "static/js/1.e40f7106.chunk.js.map": "/Myprofile/static/js/1.e40f7106.chunk.js.map",
+  "main.css": "/Myprofile/static/css/main.5d0e5a8f.chunk.css",
+  "main.js": "/Myprofile/static/js/main.eb30f42b.chunk.js",
+  "main.js.map": "/Myprofile/static/js/main.eb30f42b.chunk.js.map",
+  "static/js/1.64c2bb24.chunk.js": "/Myprofile/static/js/1.64c2bb24.chunk.js",
+  "static/js/1.64c2bb24.chunk.js.map": "/Myprofile/static/js/1.64c2bb24.chunk.js.map",
   "runtime~main.js": "/Myprofile/static/js/runtime~main.f65441c8.js",
   "runtime~main.js.map": "/Myprofile/static/js/runtime~main.f65441c8.js.map",
   "static/media/logo.png": "/Myprofile/static/media/logo.d950ad85.png",
@@ -17,8 +17,8 @@
   "static/media/insta.png": "/Myprofile/static/media/insta.8404c2a0.png",
   "static/media/mail.png": "/Myprofile/static/media/mail.72d7fe9c.png",
   "static/media/github.png": "/Myprofile/static/media/github.cc3a0377.png",
-  "static/css/main.efed5a7d.chunk.css.map": "/Myprofile/static/css/main.efed5a7d.chunk.css.map",
+  "static/css/main.5d0e5a8f.chunk.css.map": "/Myprofile/static/css/main.5d0e5a8f.chunk.css.map",
   "index.html": "/Myprofile/index.html",
-  "precache-manifest.94552debee7fdacd58deff371dbcf4c5.js": "/Myprofile/precache-manifest.94552debee7fdacd58deff371dbcf4c5.js",
+  "precache-manifest.2aa61d2757205149f3ab8c2584e89d43.js": "/Myprofile/precache-manifest.2aa61d2757205149f3ab8c2584e89d43.js",
   "service-worker.js": "/Myprofile/service-worker.js"
 }
