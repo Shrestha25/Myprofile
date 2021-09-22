@@ -11,13 +11,13 @@ const contact = () =>{
     return(
         <div className="logoset">
         <div>
-            <img src={Mail} alt=""/> &nbsp;
-            <a href="mailto:m.25shrestha97@gmail.com">25shrestha97@gmail.com</a> &nbsp;
+            <img src={Mail} alt=""/><br/>
+            <a href="mailto:m.25shrestha97@gmail.com">25shrestha97@gmail.com</a><br/>
             <a href="mailto:m.2019147@iiitdmj.ac.in">2019147@iiitdmj.ac.in</a>
         </div>
         <br/>
         <div>
-            <a href="https://github.com/Shrestha25"><img src={Git} alt=""/> &nbsp;My Github Account </a>
+            <a href="https://github.com/Shrestha25"><img src={Git} alt=""/> <br/> My Github Account </a>
         </div>
         <br/>
         <div>

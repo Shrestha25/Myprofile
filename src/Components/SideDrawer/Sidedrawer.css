@@ -1,0 +1,52 @@
+.side_drawer{
+    height: 50%;
+    background: #f1e8e8;
+    box-shadow: 2px 0px 3px rgba(0, 0, 0, 0.5);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50%;
+    max-width: 400px;
+    z-index: 200;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-out;
+}
+
+.side_drawer.open{
+    transform: translateX(0);
+    transition: transform 0.3s ease-out;
+}
+
+.drawer_logo{
+    margin-top: 20px;
+    width: 200px
+}
+.side_drawer ul {
+    height: 100%;
+    list-style: none;
+    font-size: 18px;
+    font-family: cursive;
+    flex-direction: column;
+    justify-content: center;
+}
+.side_drawer li {
+    margin: 0.5rem 0;
+}
+
+.side_drawer a{
+    color:rgb(207, 86, 86);
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.side_drawer a:hover,
+.side_drawer a:active{
+    color: black;
+    cursor: pointer;
+}
+
+@media (min-width: 769px){
+    .side_drwawer{
+        display:none;
+    }
+}
