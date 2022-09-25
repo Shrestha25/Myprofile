@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "eb30f42bb2d67f3ca2af",
-    "url": "/Myprofile/static/css/main.5d0e5a8f.chunk.css"
+    "revision": "5e6d1d934b2f880bfcbe",
+    "url": "/Myprofile/static/css/main.262d6988.chunk.css"
   },
   {
-    "revision": "eb30f42bb2d67f3ca2af",
-    "url": "/Myprofile/static/js/main.eb30f42b.chunk.js"
+    "revision": "5e6d1d934b2f880bfcbe",
+    "url": "/Myprofile/static/js/main.5e6d1d93.chunk.js"
   },
   {
-    "revision": "64c2bb24977ae19e82f8",
-    "url": "/Myprofile/static/js/1.64c2bb24.chunk.js"
+    "revision": "70086bbec538f1e27bf5",
+    "url": "/Myprofile/static/js/1.70086bbe.chunk.js"
   },
   {
     "revision": "f65441c89b5ede2d8190",
@@ -44,6 +44,10 @@ self.__precacheManifest = [
     "url": "/Myprofile/static/media/jagrati.db2acd46.png"
   },
   {
+    "revision": "b073113468d84b4b06895326e79229f3",
+    "url": "/Myprofile/static/media/elucidata.b0731134.jpg"
+  },
+  {
     "revision": "39abaf6b27cfa76e8c6a0f2d1467444a",
     "url": "/Myprofile/static/media/face.39abaf6b.jpg"
   },
@@ -60,7 +64,7 @@ self.__precacheManifest = [
     "url": "/Myprofile/static/media/github.cc3a0377.png"
   },
   {
-    "revision": "c270824d0b81e259ec4a8dbf1c9733de",
+    "revision": "6df7f2fb7fb74cb242c36ec885a3f217",
     "url": "/Myprofile/index.html"
   }
 ];
