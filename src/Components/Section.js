@@ -3,7 +3,7 @@ import Aboutme from "../parts/aboutme";
 import Cpprofile from "../parts/cpprofile";
 import Project from "../parts/project";
 import Socialservice from "../parts/socialservice";
-import Education from "../parts/education";
+import Experience from "../parts/experience";
 import Contactme from "../parts/contactme";
 const Section =({ title, dark, id }) =>{
   if(id==="section1"){
@@ -31,7 +31,7 @@ const Section =({ title, dark, id }) =>{
       <div className={"section" + (dark ? " section-dark" : "")}>
         <div className="section-content" id={id}>
           <h1>{title}</h1>
-          <Education/>
+          <Experience/>
         </div>
       </div>
     );

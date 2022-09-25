@@ -28,6 +28,18 @@ const navbar = props =>(
                     <li>
                     <Link
                         activeClass="active"
+                        to="section3"
+                        spy={true}
+                        smooth={true}
+                        offset={-70}
+                        duration={500}
+                    >
+                        Experience
+                    </Link>
+                    </li>
+                    <li>
+                    <Link
+                        activeClass="active"
                         to="section2"
                         spy={true}
                         smooth={true}
@@ -37,18 +49,6 @@ const navbar = props =>(
                         Projects
                     </Link>
                     </li>
-                    {/* <li>
-                    <Link
-                        activeClass="active"
-                        to="section3"
-                        spy={true}
-                        smooth={true}
-                        offset={-70}
-                        duration={500}
-                    >
-                        Education
-                    </Link>
-                    </li> */}
                     <li>
                     <Link
                         activeClass="active"

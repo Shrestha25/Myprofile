@@ -42,31 +42,32 @@ class App extends Component {
         />
         <br/>
         <Section
-          title="Projects"
+          title="Experience"
           dark={false}
+          id="section3"
+        />
+        <br/>
+        <Section
+          title="Projects"
+          dark={true}
           id="section2"
         />
         <br/>
-        {/* <Section
-          title="Education"
-          dark={true}
-          id="section3"
-        />*/}
         <Section
           title="CP Profile"
-          dark={true}
+          dark={false}
           id="section4"
         />
         <br/>
         <Section
           title="Social Services"
-          dark={false}
+          dark={true}
           id="section5"
         />
         <br/>
         <Section
           title="Contact Me"
-          dark={true}
+          dark={false}
           id="section6"
         />
         </div>

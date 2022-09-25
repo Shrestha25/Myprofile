@@ -11,12 +11,12 @@ const project = () =>{
                 <img src={stool_logo} alt=""/>
             </div>
             <div class="text">
-                <h2>Stool.</h2>
+                <h2>Stooler</h2>
                 <p> A platform to invest in a stock via group pool.
                     Friends and strangers come together to invest in stocks and cryptocurrency, 
                     for sharing the investment strategy and profit.<br/>
                     <i>This team project bring our team in top 10 of Zeta Hacks 3.0</i> <br/><br/>
-                    <a href="https://github.com/shivamsouravjha/Stooler">Git Hub Repository</a> </p>
+                    <a href="https://github.com/Shrestha25/Stooler">Git Hub Repository</a> </p>
             </div>
         </div>
         <br/>

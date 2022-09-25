@@ -21,7 +21,7 @@ const contact = () =>{
         </div>
         <br/>
         <div>
-            <a href="https://www.linkedin.com/in/shrestha-pratap-singh-1023a7190/"><img src={Linkedin} alt=""/></a> &nbsp;
+            <a href="https://www.linkedin.com/in/shresthapratapsingh"><img src={Linkedin} alt=""/></a> &nbsp;
             <a href="https://twitter.com/shresthapratap1?lang=en"><img src={Twitter} alt=""/></a> &nbsp;
             <a href="https://www.instagram.com/shrestha_sps_25/"><img src={Insta} alt=""/></a> &nbsp;
             <a href="https://www.facebook.com/shrestha.pratapsingh.14/"><img src={Face} alt=""/></a> &nbsp;
